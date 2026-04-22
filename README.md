@@ -2,7 +2,7 @@
 
 Telematics Engineering student at UC3M focused on Linux systems, NetDevOps, automation and infrastructure.
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![NixOS](https://img.shields.io/badge/NixOS-blue?style=for-the-badge&logo=nixos)
@@ -12,7 +12,6 @@ Telematics Engineering student at UC3M focused on Linux systems, NetDevOps, auto
 
 ## 📊 Stats
 
-![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelpernudo&show_icons=true&theme=transparent&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpernudo&layout=compact&theme=transparent&hide_border=true)
 
 ## 📫 Contact
