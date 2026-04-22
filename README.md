@@ -1,6 +1,6 @@
 ## Hi there, I'm Miguel 👋
 
-Telematics Engineering student at UC3M focused on Linux systems, NetDevOps, automation and infrastructure.
+Telematics Engineering student at UC3M focused on NetDevOps, Infrastructure as Code (IaC) and Linux.
 
 ## 🛠️ Stack
 
