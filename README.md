@@ -17,6 +17,7 @@ Telematics Engineering student at UC3M focused on Linux systems, NetDevOps, auto
 ## 📫 Contact
 
 * **LinkedIn:** [Miguel Fernández Pernudo](https://www.linkedin.com/in/miguel-pernudo/)
+* **Gmail:** miguel.fernandez.pernudo@gmail.com
 
 <!--
 **miguelpernudo/miguelpernudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
