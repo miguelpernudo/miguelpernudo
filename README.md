@@ -26,10 +26,11 @@ I'm completely fascinated with this declarative operating system and I believe t
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman)
 
-## 📊 Stats
 
+## 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpernudo&layout=compact&theme=transparent&hide_border=true)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=miegulpernudo&theme=tokyonight)
+![n](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
 
 ## 📫 Contact
 
