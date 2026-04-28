@@ -5,10 +5,10 @@ Telematics Engineering student at UC3M focused on developing maintainable infras
 ## 🛠️ Stack
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=bash)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![NixOS](https://img.shields.io/badge/NixOS-blue?style=for-the-badge&logo=nixos)
 ![Go](https://img.shields.io/badge/Go-cyan?style=for-the-badge&logo=go)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=bash)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Nftables](https://img.shields.io/badge/Nftables-purple?style=for-the-badge&logo=nftables)
 
 ## 🏗️ Projects
