@@ -1,15 +1,16 @@
 ## Hi there, I'm Miguel 👋
 
-Telematics Engineering student at UC3M focused on developing maintainable infrastructure that is, in most cases, declarative and automated. I’m also passionate about networking and security, working to develop network tools and improve my own firewalls.
+Telematics Engineering student at UC3M. Interested on developing maintainable infrastructure that is, in most cases, declarative and automated. I’m also passionate about networking and security, working to develop network tools and improve my own firewalls.
+
 
 ## 🛠️ Stack
-
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![NixOS](https://img.shields.io/badge/NixOS-blue?style=for-the-badge&logo=nixos&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-cyan?style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Nftables](https://img.shields.io/badge/Nftables-purple?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ## 🏗️ Projects
 ### 🍸 [Speakgosy](https://github.com/miguelpernudo/speakgosy)
@@ -21,6 +22,7 @@ It’s still a work in progress.
 My current multi-host repository for NixOS, which I use for my personal computer and my homelab.
 I'm completely fascinated with this declarative operating system and I believe that, while it may be tedious for desktop use, it's excellent for servers, as it ensures remarkable order, reproducibility, and stability.
 
+
 ## 📖 Learning...
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
@@ -30,8 +32,8 @@ I'm completely fascinated with this declarative operating system and I believe t
 ## 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpernudo&layout=compact&theme=transparent&hide_border=true)
 
-## 📫 Contact
 
+## 📫 Contact
 * **LinkedIn:** [Miguel Fernández Pernudo](https://www.linkedin.com/in/miguel-pernudo/)
 * **Gmail:** miguel.fernandez.pernudo@gmail.com
 
