@@ -5,11 +5,11 @@ Telematics Engineering student at UC3M focused on developing maintainable infras
 ## 🛠️ Stack
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![NixOS](https://img.shields.io/badge/NixOS-blue?style=for-the-badge&logo=nixos&logoColor=white))
-![Go](https://img.shields.io/badge/Go-cyan?style=for-the-badge&logo=go&logoColor=white))
+![NixOS](https://img.shields.io/badge/NixOS-blue?style=for-the-badge&logo=nixos&logoColor=white)
+![Go](https://img.shields.io/badge/Go-cyan?style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Nftables](https://img.shields.io/badge/Nftables-purple?style=for-the-badge&logo=linux&logoColor=black))
+![Nftables](https://img.shields.io/badge/Nftables-purple?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🏗️ Projects
 ### 🍸 [Speakgosy](https://github.com/miguelpernudo/speakgosy)
