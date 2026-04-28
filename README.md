@@ -11,7 +11,10 @@ Telematics Engineering student at UC3M. Interested on developing maintainable in
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Nftables](https://img.shields.io/badge/Nftables-purple?style=for-the-badge&logo=linux&logoColor=black)
 
-
+## 📖 Learning...
+![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux)
+![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
+![Podman](https://img.shields.io/badge/Podman-blue?style=for-the-badge&logo=podman&logoColor=white)
 
 
 ## 🏗️ Projects
@@ -23,14 +26,6 @@ It’s still a work in progress.
 ### ❄️ [NixOS-Infra](https://github.com/miguelpernudo/nixos-infra)
 My current multi-host repository for NixOS, which I use for my personal computer and my homelab.
 I'm completely fascinated with this declarative operating system and I believe that, while it may be tedious for desktop use, it's excellent for servers, as it ensures remarkable order, reproducibility, and stability.
-
-
-
-
-## 📖 Learning...
-![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman)
 
 
 
