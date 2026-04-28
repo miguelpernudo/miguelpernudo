@@ -1,6 +1,6 @@
 ## Hi there, I'm Miguel 👋
 
-Telematics Engineering student at UC3M focused on developing maintainable infrastructure that is, in most cases, declarative and automated. I’m also passionate about networking and the internet.
+Telematics Engineering student at UC3M focused on developing maintainable infrastructure that is, in most cases, declarative and automated. I’m also passionate about networking and security, working to develop network tools and improve my own firewalls.
 
 ## 🛠️ Stack
 
