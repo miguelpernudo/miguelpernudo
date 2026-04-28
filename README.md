@@ -12,6 +12,8 @@ Telematics Engineering student at UC3M. Interested on developing maintainable in
 ![Nftables](https://img.shields.io/badge/Nftables-purple?style=for-the-badge&logo=linux&logoColor=black)
 
 
+
+
 ## 🏗️ Projects
 ### 🍸 [Speakgosy](https://github.com/miguelpernudo/speakgosy)
 Written in Go, it’s a play on words involving the "speakeasies" (underground bars).
@@ -23,14 +25,20 @@ My current multi-host repository for NixOS, which I use for my personal computer
 I'm completely fascinated with this declarative operating system and I believe that, while it may be tedious for desktop use, it's excellent for servers, as it ensures remarkable order, reproducibility, and stability.
 
 
+
+
 ## 📖 Learning...
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman)
 
 
+
+
 ## 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpernudo&layout=compact&theme=transparent&hide_border=true)
+
+
 
 
 ## 📫 Contact
