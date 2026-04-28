@@ -12,12 +12,12 @@ Telematics Engineering student at UC3M focused on developing maintainable infras
 ![Nftables](https://img.shields.io/badge/Nftables-purple?style=for-the-badge&logo=linux&logoColor=black))
 
 ## 🏗️ Projects
-###🍸 [Speakgosy](https://github.com/miguelpernudo/speakgosy)
+### 🍸 [Speakgosy](https://github.com/miguelpernudo/speakgosy)
 Written in Go, it’s a play on words involving the "speakeasies" (underground bars).
 It’s a modern, lightweight SPA, slighly inspired by fwknop, designed for secure access without the need for exposed ports or third parties, you just send an encrypted UDP packet with a unique code. This UDP will travel through specific ports (53, 443) to prevent certain public network firewalls from blocking our ability to connect to our servers from outside our houses.
 It’s still a work in progress.
 
-###❄️ [NixOS-Infra](https://github.com/miguelpernudo/nixos-infra)
+### ❄️ [NixOS-Infra](https://github.com/miguelpernudo/nixos-infra)
 My current multi-host repository for NixOS, which I use for my personal computer and my homelab.
 I'm completely fascinated with this declarative operating system and I believe that, while it may be tedious for desktop use, it's excellent for servers, as it ensures remarkable order, reproducibility, and stability.
 
