@@ -21,9 +21,15 @@ It’s still a work in progress.
 My current multi-host repository for NixOS, which I use for my personal computer and my homelab.
 I'm completely fascinated with this declarative operating system and I believe that, while it may be tedious for desktop use, it's excellent for servers, as it ensures remarkable order, reproducibility, and stability.
 
+## 📖 Learning...
+![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman)
+
 ## 📊 Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpernudo&layout=compact&theme=transparent&hide_border=true)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight)
 
 ## 📫 Contact
 
