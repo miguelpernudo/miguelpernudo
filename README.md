@@ -1,12 +1,13 @@
 ## Hi there, I'm Miguel 👋
 
-Telematics Engineering student at UC3M focused on NetDevOps, Infrastructure as Code (IaC) and Linux.
+Telematics Engineering student at UC3M focused on developing maintainable infrastructure that is, in most cases, declarative and automated. I’m also passionate about networking and the internet.
 
 ## 🛠️ Stack
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![NixOS](https://img.shields.io/badge/NixOS-blue?style=for-the-badge&logo=nixos)
 ![Go](https://img.shields.io/badge/Go-cyan?style=for-the-badge&logo=go)
+![Bash](https://img.shields.io/badge/Bash?style=for-the-badge&logo=bash)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
 
