@@ -29,8 +29,8 @@ I'm completely fascinated with this declarative operating system and I believe t
 
 ## 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpernudo&layout=compact&theme=transparent&hide_border=true)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=miegulpernudo&theme=tokyonight)
-![n](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=miguelpernudo&theme=tokyonight)
+![n](https://github-readme-stats.vercel.app/api?username=miguelpernudo&show_icons=true&theme=tokyonight)
 
 ## 📫 Contact
 
