@@ -23,7 +23,7 @@ It’s a Single Packet Authorization written in Go, designed for secure access w
 It’s a play on words involving the "speakeasies" (underground bars).
 Still in progress.
 
-### ❄️ [NixOS-Infra](https://github.com/miguelpernudo/nixos-infra)
+### ❄️ [NixOS Infrastructure](https://github.com/miguelpernudo/nixos-infra)
 My current multi-host repository for NixOS, which I use for my personal computer and my homelab.
 I'm completely fascinated with this declarative operating system and I believe that, while it may be tedious for desktop use, it's excellent for servers, as it ensures remarkable order, reproducibility, and stability.
 
