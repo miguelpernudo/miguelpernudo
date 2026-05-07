@@ -19,9 +19,9 @@ Telematics Engineering student at UC3M. Interested on developing maintainable in
 
 ## 🏗️ Projects
 ### 🍸 [Speakgosy](https://github.com/miguelpernudo/speakgosy)
-Written in Go, it’s a play on words involving the "speakeasies" (underground bars).
-It’s a modern, lightweight SPA, slighly inspired by fwknop, designed for secure access without the need for exposed ports or third parties, you just send an encrypted UDP packet with a unique code. This UDP will travel through specific ports (53, 443) to prevent certain public network firewalls from blocking our ability to connect to our servers from outside our houses.
-It’s still a work in progress.
+It’s a Single Packet Authorization written in Go, designed for secure access without the need for exposed ports or third parties, you just send an encrypted UDP packet with a unique code and then this UDP will travel through specific ports (53, 443) to prevent certain public network firewalls from blocking the ability to connect to our servers from outside home.
+It’s a play on words involving the "speakeasies" (underground bars).
+Still in progress.
 
 ### ❄️ [NixOS-Infra](https://github.com/miguelpernudo/nixos-infra)
 My current multi-host repository for NixOS, which I use for my personal computer and my homelab.
