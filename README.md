@@ -28,19 +28,16 @@ My current multi-host repository for NixOS, which I use for my personal computer
 I'm completely fascinated with this declarative operating system and I believe that, while it may be tedious for desktop use, it's excellent for servers, as it ensures remarkable order, reproducibility, and stability.
 
 
-
-
-## 📊 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpernudo&layout=compact&theme=transparent&hide_border=true)
-
-
-
-
 ## 📫 Contact
 * **LinkedIn:** [Miguel Fernández Pernudo](https://www.linkedin.com/in/miguel-pernudo/)
 * **Gmail:** miguel.fernandez.pernudo@gmail.com
 
 <!--
+
+## 📊 Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpernudo&layout=compact&theme=transparent&hide_border=true)
+
+
 **miguelpernudo/miguelpernudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
