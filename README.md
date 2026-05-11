@@ -6,7 +6,6 @@ Telematics Engineering student at UC3M. Interested on developing maintainable in
 ## 🛠️ Stack
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![NixOS](https://img.shields.io/badge/NixOS-blue?style=for-the-badge&logo=nixos&logoColor=white)
-![Go](https://img.shields.io/badge/Go-cyan?style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Nftables](https://img.shields.io/badge/Nftables-purple?style=for-the-badge&logo=linux&logoColor=black)
@@ -14,14 +13,11 @@ Telematics Engineering student at UC3M. Interested on developing maintainable in
 ## 📖 Learning...
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux)
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
+![Go](https://img.shields.io/badge/Go-cyan?style=for-the-badge&logo=go&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-blue?style=for-the-badge&logo=podman&logoColor=white)
 
 
 ## 🏗️ Projects
-### 🍸 [Speakgosy](https://github.com/miguelpernudo/speakgosy)
-It’s a Single Packet Authorization written in Go, designed for secure access without the need for exposed ports or third parties, you just send an encrypted UDP packet with a unique code and then this UDP will travel through specific ports (53, 443) to prevent certain public network firewalls from blocking the ability to connect to our servers from outside home.
-It’s a play on words involving the "speakeasies" (underground bars).
-Still in progress.
 
 ### ❄️ [NixOS Infrastructure](https://github.com/miguelpernudo/nixos-infra)
 My current multi-host repository for NixOS, which I use for my personal computer and my homelab.
@@ -50,4 +46,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 🍸 [Speakgosy](https://github.com/miguelpernudo/speakgosy)
+It’s a Single Packet Authorization written in Go, designed for secure access without the need for exposed ports or third parties, you just send an encrypted UDP packet with a unique code and then this UDP will travel through specific ports (53, 443) to prevent certain public network firewalls from blocking the ability to connect to our servers from outside home.
+It’s a play on words involving the "speakeasies" (underground bars).
+Still in progress.
 -->
