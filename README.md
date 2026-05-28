@@ -1,5 +1,4 @@
-## Hi there, I'm Miguel 👋
-
+# Hi there, I'm Miguel 👋
 Telematics Engineering student at UC3M. I enjoy developing maintainable infrastructure that is, in most cases, declarative and automated. Interested in networking and security, currently working in network tools.
 
 
