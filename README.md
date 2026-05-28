@@ -1,6 +1,6 @@
 ## Hi there, I'm Miguel 👋
 
-Telematics Engineering student at UC3M. Interested on developing maintainable infrastructure that is, in most cases, declarative and automated. I’m also passionate about networking and security, working to develop network tools and improve my own firewalls.
+Telematics Engineering student at UC3M. I enjoy developing maintainable infrastructure that is, in most cases, declarative and automated. Interested in networking and security, currently working in network tools.
 
 
 ## 🛠️ Stack
@@ -11,17 +11,17 @@ Telematics Engineering student at UC3M. Interested on developing maintainable in
 ![Nftables](https://img.shields.io/badge/Nftables-purple?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📖 Learning...
-![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux)
-![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
 ![Go](https://img.shields.io/badge/Go-cyan?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
 ![Podman](https://img.shields.io/badge/Podman-blue?style=for-the-badge&logo=podman&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
 ## 🏗️ Projects
 
 ### ❄️ [NixOS Infrastructure](https://github.com/miguelpernudo/nixos-infra)
-My current multi-host repository for NixOS, which I use for my personal computer and my homelab.
-I'm completely fascinated with this declarative operating system and I believe that, while it may be tedious for desktop use, it's excellent for servers, as it ensures remarkable order, reproducibility, and stability.
+My current multi-host repository for NixOS, which is GNU/Linux but IaC. Extremely stable, it offers control and scalability,
+that's why it's the operating system on my personal computer and and above all, my homelab. 
 
 
 ## 📫 Contact
@@ -47,8 +47,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### 🍸 [Speakgosy](https://github.com/miguelpernudo/speakgosy)
-It’s a Single Packet Authorization written in Go, designed for secure access without the need for exposed ports or third parties, you just send an encrypted UDP packet with a unique code and then this UDP will travel through specific ports (53, 443) to prevent certain public network firewalls from blocking the ability to connect to our servers from outside home.
-It’s a play on words involving the "speakeasies" (underground bars).
-Still in progress.
 -->
