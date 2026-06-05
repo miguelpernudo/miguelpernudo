@@ -21,12 +21,12 @@ My home access point, with a secure and isolated network running on Alpine Linux
 ---
 
 ## 🛠️ Stack
-### Network & Security
+### Network & security
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![Nftables](https://img.shields.io/badge/Nftables-purple?style=for-the-badge&logo=linux&logoColor=black)
 ![WireGuard](https://img.shields.io/badge/WireGuard-005FFF?style=for-the-badge&logo=wireguard&logoColor=white)
 
-### Systems & Automation
+### Systems & automation
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![NixOS](https://img.shields.io/badge/NixOS-blue?style=for-the-badge&logo=nixos&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
