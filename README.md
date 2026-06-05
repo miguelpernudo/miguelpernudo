@@ -15,7 +15,7 @@ Zero trust based in secrets, modern port-knocking and post-quantum encryption.
 My current multi-host repository for NixOS. Extremely stable, it offers me real control and scalability,
 that's why it's the operating system on my personal computer and my network homelab. 
 
-### 🌐 [Alpine Router](https://github.com/miguelpernudo/alpine-router)
+### 🌐 [Pathfinder Gateway](https://github.com/miguelpernudo/alpine-router)
 My home access point, with a secure and isolated network running on Alpine Linux.
 
 ---
