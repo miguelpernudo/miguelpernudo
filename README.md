@@ -32,10 +32,6 @@ My home access point, with a secure and isolated network running on Alpine Linux
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
 ## 📖 Still learning...
 ![Go](https://img.shields.io/badge/Go-cyan?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
@@ -54,6 +50,11 @@ My home access point, with a secure and isolated network running on Alpine Linux
 
 ## 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpernudo&layout=compact&theme=transparent&hide_border=true)
+
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 Here are some ideas to get you started:
 
