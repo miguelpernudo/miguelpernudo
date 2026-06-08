@@ -1,5 +1,5 @@
 # Hi there, I'm Miguel 👋
-**Telematics Engineering student at UC3M.** I enjoy developing maintainable infrastructure that is, in most cases, declarative and automated. Focused on network engineering and security, currently working on network tools and exploring the DevOps and cloud ecosystem.
+**Telematics Engineering student at UC3M.** I enjoy developing and deploying infrastructure that is declarative and automated. Focused on network engineering and security, and currently working on network tools and exploring the cloud ecosystem.
 
 ---
 
@@ -32,18 +32,19 @@ My home access point, with a secure and isolated network running on Alpine Linux
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
-## 📖 Still learning...
+## 📖 Learning...
 ![Go](https://img.shields.io/badge/Go-cyan?style=for-the-badge&logo=go&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-red?style=for-the-badge&logo=ansible&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=podman&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
 ## 📫 Contact
 * **LinkedIn:** [Miguel Fernández Pernudo](https://www.linkedin.com/in/miguel-pernudo/)
 * **Email:** [miguel.fernandez.pernudo@gmail.com](mailto:miguelfernandezpernudo@gmail.com)
-  
+
+---
 
 <!--
 **miguelpernudo/miguelpernudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,7 +52,7 @@ My home access point, with a secure and isolated network running on Alpine Linux
 ## 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpernudo&layout=compact&theme=transparent&hide_border=true)
 
-
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
