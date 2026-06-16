@@ -23,19 +23,22 @@ Currently implementing a CI/CD pipeline to automate deployment testing and ensur
 
 ---
 
-## 🛠️ Stack
-![Nftables](https://img.shields.io/badge/Nftables-purple?style=for-the-badge&logo=linux&logoColor=black)
-![WireGuard](https://img.shields.io/badge/WireGuard-005FFF?style=for-the-badge&logo=wireguard&logoColor=white)
+## 🛠️ Ecosystem
+![Networking](https://img.shields.io/badge/Networking-blue?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![NixOS](https://img.shields.io/badge/NixOS-blue?style=for-the-badge&logo=nixos&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![NixOS](https://img.shields.io/badge/NixOS-blue?style=for-the-badge&logo=nixos&logoColor=white)
+![Nftables](https://img.shields.io/badge/Nftables-purple?style=for-the-badge&logo=linux&logoColor=black)
+![WireGuard](https://img.shields.io/badge/WireGuard-005FFF?style=for-the-badge&logo=wireguard&logoColor=white)
 
-## 📖 Learning...
+## 📖 Learning Roadmap
 ![Go](https://img.shields.io/badge/Go-cyan?style=for-the-badge&logo=go&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-red?style=for-the-badge&logo=ansible&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=podman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Containerlab](https://img.shields.io/badge/Containerlab-orange?style=for-the-badge)
 
 ---
 
