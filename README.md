@@ -1,19 +1,18 @@
 # Hi there, I'm Miguel 👋
-**Telematics Engineering student at UC3M.** I enjoy developing and deploying infrastructure that is declarative and automated. Focused on network engineering and security, and currently working on network tools and exploring the cloud ecosystem.
+**Telematics Engineering student at UC3M.** 
+I build and deploy declarative infrastructure, with a strong focus on network engineering and automation. I am currently developing a network tool for fully secure remote access and working on personal projects spanning from low-level hardware through Linux environments to *Infrastructure as Code*.
 
 ---
 
 ## 🏗️ Projects
 
 ### 🗝️ ZEPKA (WIP)
-**Zero-trust Engine for Port-Knocking Access**
-
-A modernization of the traditional port-knocking and its drawbacks. A token-based remote authentication system designed to validate sessions and TCP communications, avoiding the need to modify firewall rules associated with the IP address.
+**Zero-trust Engine for Port-Knocking Access**: A modernization of the traditional port-knocking and its drawbacks. A token-based remote authentication system designed to validate sessions and TCP communications, avoiding the need to modify firewall rules associated with the IP address.
 
 ## 🖥️ Homelabs
 
 ### ❄️ [NixOS Infrastructure](https://github.com/miguelpernudo/nixos-infra)
-A NixOS multi-host configuration managing my desktop and network server. Fully declarative IaC with deep systems integration. 
+A NixOS multi-host configuration managing my desktop and network server. Fully declarative systems with deep integration between both. 
 The roadmap for the server includes ContainerLab for network simulation and a robust observability stack using Prometheus and Grafana.
 
 ### 🌐 [Pathfinder Gateway](https://github.com/miguelpernudo/pathfinder-gateway)
