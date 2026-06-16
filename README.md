@@ -8,16 +8,16 @@ I am currently developing a network tool for fully secure remote access and work
 
 ## 🏗️ Projects
 
-### 🗝️ ZEPKA (WIP)
+### ZEPKA (WIP)
 **Zero-trust Engine for Port-Knocking Access**: A modernization of the traditional port-knocking and its drawbacks. A token-based remote authentication system designed to validate sessions and TCP communications, avoiding the need to modify firewall rules associated with the IP address.
 
 ## 🖥️ Homelabs
 
-### ❄️ [NixOS Infrastructure](https://github.com/miguelpernudo/nixos-infra)
+### [NixOS Infrastructure](https://github.com/miguelpernudo/nixos-infra)
 A NixOS multi-host configuration managing my desktop and network server. Fully declarative systems with deep integration between both. 
 The roadmap for the server includes ContainerLab for network simulation and a robust observability stack using Prometheus and Grafana.
 
-### 🌐 [Pathfinder Gateway](https://github.com/miguelpernudo/pathfinder-gateway)
+### [Pathfinder Gateway](https://github.com/miguelpernudo/pathfinder-gateway)
 A custom, resource-efficient network gateway and wireless access point designed for low-power hardware. Deployed on Alpine Linux, it features encrypted DNS resolution and integrated monitoring via Netdata. 
 Currently implementing a CI/CD pipeline to automate deployment testing and ensure the integrity of the installation logic on every commit.
 
