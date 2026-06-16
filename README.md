@@ -1,6 +1,8 @@
 # Hi there, I'm Miguel 👋
 **Telematics Engineering student at UC3M.** 
-I build and deploy declarative infrastructure, with a strong focus on network engineering and automation. I am currently developing a network tool for fully secure remote access and working on personal projects spanning from low-level hardware through Linux environments to *Infrastructure as Code*.
+
+I build and deploy declarative infrastructure, with a strong focus on network engineering and automation. 
+I am currently developing a network tool for fully secure remote access and working on personal projects spanning from bare-metal hardware and host-level Linux to *IaC*.
 
 ---
 
@@ -22,12 +24,8 @@ Currently implementing a CI/CD pipeline to automate deployment testing and ensur
 ---
 
 ## 🛠️ Stack
-### Network & security
-![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![Nftables](https://img.shields.io/badge/Nftables-purple?style=for-the-badge&logo=linux&logoColor=black)
 ![WireGuard](https://img.shields.io/badge/WireGuard-005FFF?style=for-the-badge&logo=wireguard&logoColor=white)
-
-### Systems & automation
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![NixOS](https://img.shields.io/badge/NixOS-blue?style=for-the-badge&logo=nixos&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
