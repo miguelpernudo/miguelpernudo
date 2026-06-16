@@ -5,9 +5,9 @@
 
 ## 🏗️ Projects
 
-### 🐹 Fossorial (WIP)
-**Single packet authorization for remote services.**
-Zero trust based in secrets, modern port-knocking and post-quantum encryption.
+### 🗝️ ZEPKA (WIP)
+**Zero-trust Engine for Port-Knocking Access**
+A modernization of the traditional port-knocking and its drawbacks. A token-based remote authentication system designed to validate sessions and TCP communications, avoiding the need to modify firewall rules associated with the IP address.
 
 ## 🖥️ Homelabs
 
