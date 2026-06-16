@@ -13,11 +13,12 @@ A modernization of the traditional port-knocking and its drawbacks. A token-base
 ## 🖥️ Homelabs
 
 ### ❄️ [NixOS Infrastructure](https://github.com/miguelpernudo/nixos-infra)
-My current multi-host repository for NixOS. Extremely stable, it offers me real control and scalability,
-that's why it's the operating system on my personal computer and my network homelab. 
+A NixOS multi-host configuration managing my desktop and network server. Fully declarative IaC with deep systems integration. 
+The roadmap for the server includes ContainerLab for network simulation and a robust observability stack using Prometheus and Grafana.
 
-### 🌐 [Pathfinder Gateway](https://github.com/miguelpernudo/alpine-router)
-My home access point, with a secure and isolated network running on Alpine Linux.
+### 🌐 [Pathfinder Gateway](https://github.com/miguelpernudo/pathfinder-gateway)
+A custom, resource-efficient network gateway and wireless access point designed for low-power hardware. Deployed on Alpine Linux, it features encrypted DNS resolution and integrated monitoring via Netdata. 
+Currently implementing a CI/CD pipeline to automate deployment testing and ensure the integrity of the installation logic on every commit.
 
 ---
 
