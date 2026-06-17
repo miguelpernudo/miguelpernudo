@@ -1,8 +1,8 @@
 # Hi there, I'm Miguel 👋
 **Telematics Engineering student at [UC3M](https://www.uc3m.es).** 
 
-I build and deploy declarative infrastructure, with a strong focus on network engineering and automation. 
-I am currently developing a network tool for fully secure remote access and working on personal projects spanning from bare-metal hardware and host-level Linux to *IaC*.
+I build and deploy declarative and resilient infrastructure, with a strong focus on network engineering and automation. 
+I am currently developing a network tool for fully secure remote access and working on personal projects, from bare-metal (and resource-costrained) hardware to *IaC*.
 
 ---
 
