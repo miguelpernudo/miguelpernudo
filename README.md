@@ -7,17 +7,11 @@ I am currently developing a network tool for fully secure remote access and work
 ---
 
 ## 🏗️ Projects
+My actual projects that focused on automation, declarative systems, and network security.
 
 ### ZEPKA (WIP)
 <!-- ### [ZEPKA](https://github.com/miguelpernudo/zepka) -->
-**Zero-trust engine for port knocking access**: A modernization of the traditional port-knocking. A token-based remote authentication system designed to validate sessions and TCP communications, avoiding the need to modify firewall rules associated with the IP address.
-
-<!-- 
-### [NetDev-Lab](https://github.com/miguelpernudo/netdev-lab) 
-Framework for validating and automating network topologies using *IaC*. It uses Ansible, and Containerlab.
--->
-
-## 🖥️ Homelabs
+**Zero-trust engine for port knocking access**: A modernization of the traditional port-knocking. A token-based remote authentication system designed to validate sessions and TCP communications, avoiding the need to modify firewall rules.
 
 ### [NixOS Infrastructure](https://github.com/miguelpernudo/nixos-infra)
 A NixOS multi-host configuration managing my desktop and network server. Fully declarative systems with deep integration between both. 
@@ -25,6 +19,11 @@ The roadmap for the server includes ContainerLab for network simulation and a ro
 
 ### [Pathfinder Gateway](https://github.com/miguelpernudo/pathfinder-gateway)
 A custom, resource-efficient network gateway and wireless access point designed for low-power hardware. Deployed on Alpine Linux, it features encrypted DNS resolution and integrated monitoring via Netdata. 
+
+<!-- 
+### [NetDev-Lab](https://github.com/miguelpernudo/netdev-lab) 
+Framework for validating and automating network topologies using *IaC*. It uses Ansible, and Containerlab.
+-->
 
 ---
 
