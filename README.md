@@ -2,14 +2,20 @@
 **Telematics Engineering student at [UC3M](https://www.uc3m.es).** 
 
 I build and deploy declarative and resilient infrastructure, with a strong focus on network engineering and automation. 
-I am currently developing a network tool for fully secure remote access and working on personal projects, from bare-metal (and resource-costrained) hardware to *IaC*.
+I am currently developing a network tool for fully secure remote access and working on personal projects.
 
 ---
 
 ## 🏗️ Projects
 
 ### ZEPKA (WIP)
-**Zero-trust Engine for Port Knocking Access**: A modernization of the traditional port-knocking. A token-based remote authentication system designed to validate sessions and TCP communications, avoiding the need to modify firewall rules associated with the IP address.
+<!-- ### [ZEPKA](https://github.com/miguelpernudo/zepka) -->
+**Zero-trust engine for port knocking access**: A modernization of the traditional port-knocking. A token-based remote authentication system designed to validate sessions and TCP communications, avoiding the need to modify firewall rules associated with the IP address.
+
+<!-- 
+### [NetDev-Lab](https://github.com/miguelpernudo/netdev-lab) 
+Framework for validating and automating network topologies using *IaC*. It uses Ansible, and Containerlab.
+-->
 
 ## 🖥️ Homelabs
 
@@ -19,7 +25,6 @@ The roadmap for the server includes ContainerLab for network simulation and a ro
 
 ### [Pathfinder Gateway](https://github.com/miguelpernudo/pathfinder-gateway)
 A custom, resource-efficient network gateway and wireless access point designed for low-power hardware. Deployed on Alpine Linux, it features encrypted DNS resolution and integrated monitoring via Netdata. 
-Currently implementing a CI/CD pipeline to automate deployment testing and ensure the integrity of the installation logic on every commit.
 
 ---
 
