@@ -31,8 +31,8 @@ Framework for validating and automating network topologies using *IaC*. It uses 
 ![Networking](https://img.shields.io/badge/Networking-blue?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![NixOS](https://img.shields.io/badge/NixOS-blue?style=for-the-badge&logo=nixos&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Nftables](https://img.shields.io/badge/Nftables-purple?style=for-the-badge&logo=linux&logoColor=black)
 ![WireGuard](https://img.shields.io/badge/WireGuard-005FFF?style=for-the-badge&logo=wireguard&logoColor=white)
 
