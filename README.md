@@ -15,7 +15,7 @@ My actual projects that focused on automation, declarative systems, and network 
 
 ### [NixOS Infrastructure](https://github.com/miguelpernudo/nixos-infra)
 Nix multi-host configuration managing my desktop and network server. Fully declarative systems with deep integration between both. 
-The roadmap for the server includes ContainerLab for network simulation and a robust observability stack using Prometheus and Grafana.
+The roadmap for the server includes robust observability using Grafana.
 
 ### [Pathfinder Gateway](https://github.com/miguelpernudo/pathfinder-gateway)
 Custom, resource-efficient gateway and wireless access point designed for low-power hardware. Deployed on Alpine Linux, it features encrypted DNS resolution and integrated monitoring via Netdata. 
