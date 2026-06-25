@@ -1,7 +1,7 @@
 # Hi there, I'm Miguel 👋
 **Telematics Engineering student at [UC3M](https://www.uc3m.es).** 
 
-I build and deploy declarative and resilient infrastructure, with a strong focus on network engineering and automation. 
+I build and deploy declarative infrastructure, with a strong focus on network engineering and automation. 
 
 ---
 
