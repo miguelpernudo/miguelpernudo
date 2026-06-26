@@ -6,10 +6,12 @@ I build and deploy declarative infrastructure, with a strong focus on network en
 ---
 
 ## 🏗️ IaC Homelab
-
 ### [NetDev Lab](https://github.com/miguelpernudo/netdev-lab)
-Nix multi-host configuration managing my desktop and network server. Fully declarative systems with deep integration between both. 
-Custom, resource-efficient gateway and wireless access point designed for low-power hardware. Deployed on Alpine Linux, it features encrypted DNS resolution and integrated monitoring via Netdata. 
+My current monorepo, which contains the infrastructure of my homelab. It includes:
+- Nix multi-host configuration managing my desktop and network server. Fully declarative systems with deep integration between both. 
+- Custom, resource-efficient gateway and wireless access point designed for low-power hardware, deployed on Alpine Linux.
+
+Roadmap: Ansible for non-Nix systems. Network simulation in ContainerLab.
 
 
 ---
