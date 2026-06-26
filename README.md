@@ -7,11 +7,8 @@ I build and deploy declarative infrastructure, with a strong focus on network en
 
 ## 🏗️ IaC Homelab
 
-### [NixOS Infrastructure](https://github.com/miguelpernudo/nixos-infra)
+### [NetDev Lab](https://github.com/miguelpernudo/netdev-lab)
 Nix multi-host configuration managing my desktop and network server. Fully declarative systems with deep integration between both. 
-The roadmap for the server includes robust observability using Grafana.
-
-### [Pathfinder Gateway](https://github.com/miguelpernudo/pathfinder-gateway)
 Custom, resource-efficient gateway and wireless access point designed for low-power hardware. Deployed on Alpine Linux, it features encrypted DNS resolution and integrated monitoring via Netdata. 
 
 
@@ -20,19 +17,19 @@ Custom, resource-efficient gateway and wireless access point designed for low-po
 ## 🛠️ Ecosystem
 ![Networking](https://img.shields.io/badge/Networking-blue?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-blue?style=for-the-badge&logo=nixos&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Nftables](https://img.shields.io/badge/Nftables-purple?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![WireGuard](https://img.shields.io/badge/WireGuard-005FFF?style=for-the-badge&logo=wireguard&logoColor=white)
 
-## 📖 Learning Roadmap
-![Go](https://img.shields.io/badge/Go-cyan?style=for-the-badge&logo=go&logoColor=white)
+## 📖 Learning
 ![Ansible](https://img.shields.io/badge/Ansible-red?style=for-the-badge&logo=ansible&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Go](https://img.shields.io/badge/Go-cyan?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Containerlab](https://img.shields.io/badge/Containerlab-orange?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
