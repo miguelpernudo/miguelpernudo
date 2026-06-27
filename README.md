@@ -1,37 +1,46 @@
 # Hi there, I'm Miguel 👋
-**Telematics Engineering student at [UC3M](https://www.uc3m.es).** 
-
-I build and deploy declarative infrastructure, with a strong focus on network engineering and automation. 
+I'm a Telematics Engineering student at [UC3M](https://www.uc3m.es), aspiring to specialize in NRE and NetDevOps. I combine my passion for both low-level networking and Linux with declarative principles to build resilient and scalable infrastructure, from edge to cloud.
 
 ---
 
 ## 🏗️ IaC Homelab
-### [NetDev Infra](https://github.com/miguelpernudo/netdev-lab)
-My current monorepo, which contains the infrastructure of my homelab. It includes:
-- Nix multi-host configuration managing my desktop and network server. Fully declarative systems with deep integration between both. 
-- Custom, resource-efficient gateway and wireless access point designed for low-power hardware, deployed on Alpine Linux.
+### [NetDev Infra](https://github.com/miguelpernudo/netdev-infra)
+A fully declarative monorepo managing my personal infrastructure, built with a strong focus on resource efficiency and reproducibility.
+- **Nix** multi-host configuration managing my desktop and network server. Fully declarative systems with deep integration between both. 
+- Custom, resource-efficient gateway and wireless access point designed for low-power hardware, deployed on **Alpine Linux**.
 
-Roadmap: Ansible for non-Nix systems. Network simulation in ContainerLab.
+> *Roadmap*: Automating non-Guix nodes with Ansible, and network topology simulations with **ContainerLab**.
 
 
 ---
 
 ## 🛠️ Ecosystem
-![Networking](https://img.shields.io/badge/Networking-blue?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![NixOS](https://img.shields.io/badge/NixOS-blue?style=for-the-badge&logo=nixos&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Nftables](https://img.shields.io/badge/Nftables-purple?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![WireGuard](https://img.shields.io/badge/WireGuard-005FFF?style=for-the-badge&logo=wireguard&logoColor=white)
+### Networking & systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![Netfilter/Nftables](https://img.shields.io/badge/Nftables-3F51B5?style=for-the-badge&logo=linux&logoColor=white)
 
-## 📖 Learning
-![Ansible](https://img.shields.io/badge/Ansible-red?style=for-the-badge&logo=ansible&logoColor=white)
+### Automation
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+## 📖 Currently learning
+
+### Networking & observability
+![eBPF](https://img.shields.io/badge/eBPF-18565A?style=for-the-badge&logo=ebpf&logoColor=white)
+![Containerlab](https://img.shields.io/badge/Containerlab-FF5733?style=for-the-badge)
+![Traffic Control](https://img.shields.io/badge/Traffic_Control-004080?style=for-the-badge)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Go](https://img.shields.io/badge/Go-cyan?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
-![Containerlab](https://img.shields.io/badge/Containerlab-orange?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+
+### Software & automation
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
