@@ -1,5 +1,5 @@
 # Hi there, I'm Miguel 👋
-I'm a Telematics Engineering student at [UC3M](https://www.uc3m.es), aspiring to specialize in NRE and Edge Networking. I combine my passion for both low-level networking and Linux with declarative principles to build resilient and scalable infrastructure, from edge to cloud.
+I'm a Telematics Engineering student at [UC3M](https://www.uc3m.es).
 
 ---
 
