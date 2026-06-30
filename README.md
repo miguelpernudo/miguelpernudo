@@ -1,11 +1,12 @@
 # Hi there, I'm Miguel 👋
-I'm a Telematics Engineering student at [UC3M](https://www.uc3m.es).
+I'm a Telematics Engineering student at [UC3M](https://www.uc3m.es) passionate about low-level networking, *NIX systems, and FOSS. 
+I'm also fascinated by the point where software meets the metal in edge environments.
 
 ---
 
-## 🏗️ Projects:
+## 🏗️ Projects
 ### [Homelab as Code](https://github.com/miguelpernudo/netdev-infra)
-A fully declarative monorepo managing my personal infrastructure, built with a strong focus on resource efficiency and reproducibility.
+A fully declarative monorepo managing my personal infrastructure, built with a strong focus on resource efficiency, determinism, and reproducibility.
 - **Nix** multi-host configuration managing my workstation, and a network server running a K3s cluster hosting a full monitoring stack.
 - Custom, resource-efficient gateway and wireless access point designed for low-power hardware with QoS and nftables, deployed on **Alpine Linux**.
 
@@ -43,8 +44,8 @@ A fully declarative monorepo managing my personal infrastructure, built with a s
 
 ---
 
-## 📫 Contact
-I'm open to collaborating. If you need help, reach out to me!
+## 📫 Contact me
+I'm always open to collaborating. If you need help, reach out to me!
 
 * **Email:** [miguel.fernandez.pernudo@gmail.com](mailto:miguelfernandezpernudo@gmail.com)
 * **LinkedIn:** [Miguel Fernández Pernudo](https://www.linkedin.com/in/miguel-pernudo/)
