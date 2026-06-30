@@ -7,8 +7,8 @@ I'm also fascinated by the point where software meets the metal in edge environm
 ## 🏗️ Projects
 ### [Homelab as Code](https://github.com/miguelpernudo/netdev-infra)
 A fully declarative monorepo managing my personal infrastructure, built with a strong focus on resource efficiency, determinism, and reproducibility.
-- **Nix** multi-host configuration managing my workstation, and a network server running a K3s cluster hosting a full monitoring stack with Grafana.
-- Custom, resource-efficient gateway and wireless access point designed for low-power hardware with QoS (via TC) and nftables, deployed on **Alpine Linux**.
+- Nix flake multi-host managing my workstation, and a network server running a K3s cluster hosting a monitoring stack with Grafana.
+- Custom, resource-efficient gateway and wireless access point designed for low-power hardware with QoS (via TC) and nftables, deployed on Alpine Linux.
 
 > ***Roadmap***: 
 > - Automating non-Nix nodes with Ansible.
