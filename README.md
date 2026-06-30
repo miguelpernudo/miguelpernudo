@@ -7,8 +7,8 @@ I'm also fascinated by the point where software meets the metal in edge environm
 ## 🏗️ Projects
 ### [Homelab as Code](https://github.com/miguelpernudo/netdev-infra)
 A fully declarative monorepo managing my personal infrastructure, built with a strong focus on resource efficiency, determinism, and reproducibility.
-- **Nix** multi-host configuration managing my workstation, and a network server running a K3s cluster hosting a full monitoring stack.
-- Custom, resource-efficient gateway and wireless access point designed for low-power hardware with QoS and nftables, deployed on **Alpine Linux**.
+- **Nix** multi-host configuration managing my workstation, and a network server running a K3s cluster hosting a full monitoring stack with Grafana.
+- Custom, resource-efficient gateway and wireless access point designed for low-power hardware with QoS (via TC) and nftables, deployed on **Alpine Linux**.
 
 > ***Roadmap***: 
 > - Automating non-Nix nodes with Ansible.
@@ -38,8 +38,6 @@ A fully declarative monorepo managing my personal infrastructure, built with a s
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![FRRouting](https://img.shields.io/badge/FRRouting-005697?style=for-the-badge)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Traffic Control](https://img.shields.io/badge/Traffic_Control-1E5A8A?style=for-the-badge)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 
 ---
@@ -58,10 +56,9 @@ I'm always open to collaborating. If you need help, reach out to me!
 ## 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelpernudo&layout=compact&theme=transparent&hide_border=true)
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-### Languages
+![Traffic Control](https://img.shields.io/badge/Traffic_Control-1E5A8A?style=for-the-badge)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 Here are some ideas to get you started:
 
