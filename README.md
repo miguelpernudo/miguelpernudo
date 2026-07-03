@@ -5,14 +5,13 @@ I'm a Telematics Engineering student at [UC3M](https://www.uc3m.es) passionate a
 
 ## 🏗️ Repos
 ### [Homelab as Code](https://github.com/miguelpernudo/netdev-infra)
-A fully declarative monorepo managing my personal infrastructure, built with a strong focus on resource efficiency, determinism, and reproducibility.
+A fully declarative monorepo managing my network homelab, built with a strong focus on resource efficiency, determinism, and reproducibility.
 - Nix flake multi-host managing my workstation, and a network server running a K3s cluster hosting a monitoring stack with Grafana.
 - Custom, resource-efficient gateway and wireless access point designed for low-power hardware with QoS (via TC) and nftables, deployed on Alpine Linux.
 
 > ***Roadmap***: 
 > - Automating non-Nix nodes with Ansible.
 > - Network topology simulations with Containerlab.
-> - Deploy a public VPS as a WireGuard endpoint and reverse proxy to safely expose homelab services and bypass CGNAT.
 
 
 ---
