@@ -10,31 +10,20 @@ A fully declarative monorepo managing my network homelab, built with a strong fo
 - Custom, resource-efficient gateway and wireless access point designed for low-power hardware with QoS (via TC) and nftables, deployed on Alpine Linux.
 
 > ***Roadmap***: 
-> - Automating non-Nix nodes with Ansible.
 > - Network topology simulations with Containerlab.
 
 
 ---
 
 ## 🛠️ Stack
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-![Nftables](https://img.shields.io/badge/Nftables-3F51B5?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+`Linux` `C` `Nix` `Bash` 
 
 ---
 
-## 📖 Currently learning
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![eBPF](https://img.shields.io/badge/eBPF-18565A?style=for-the-badge&logo=ebpf&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Containerlab](https://img.shields.io/badge/Containerlab-1E5A8A?style=for-the-badge)
-![FRRouting](https://img.shields.io/badge/FRRouting-005697?style=for-the-badge)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+## 📖 Learning
+`Containerlab` `Netlink`
+`eBPF` `XDP` `DPDK`
+`Rust`
 
 
 ---
@@ -42,8 +31,8 @@ A fully declarative monorepo managing my network homelab, built with a strong fo
 ## 📫 Contact me
 I'm always open to collaborating. If you need help, reach out to me!
 
-* **Email:** [miguel.fernandez.pernudo@gmail.com](mailto:miguelfernandezpernudo@gmail.com)
-* **LinkedIn:** [Miguel Fernández Pernudo](https://www.linkedin.com/in/miguel-pernudo/)
+* **Email:** [miguelfernandezpernudo@gmail.com](mailto:miguelfernandezpernudo@gmail.com)
+* **LinkedIn:** [Miguel Fernández Pernudo](https://www.linkedin.com/in/miguelpernudo/)
 
 ---
 
