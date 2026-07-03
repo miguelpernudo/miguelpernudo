@@ -1,10 +1,9 @@
 # Hi there, I'm Miguel 👋
 I'm a Telematics Engineering student at [UC3M](https://www.uc3m.es) passionate about low-level networking, *NIX systems, and FOSS. 
-I'm also fascinated by the point where software meets the metal in edge environments.
 
 ---
 
-## 🏗️ Projects
+## 🏗️ Repos
 ### [Homelab as Code](https://github.com/miguelpernudo/netdev-infra)
 A fully declarative monorepo managing my personal infrastructure, built with a strong focus on resource efficiency, determinism, and reproducibility.
 - Nix flake multi-host managing my workstation, and a network server running a K3s cluster hosting a monitoring stack with Grafana.
@@ -35,7 +34,6 @@ A fully declarative monorepo managing my personal infrastructure, built with a s
 ![eBPF](https://img.shields.io/badge/eBPF-18565A?style=for-the-badge&logo=ebpf&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Containerlab](https://img.shields.io/badge/Containerlab-1E5A8A?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![FRRouting](https://img.shields.io/badge/FRRouting-005697?style=for-the-badge)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
