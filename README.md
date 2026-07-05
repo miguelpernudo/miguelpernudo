@@ -21,7 +21,7 @@ A fully declarative monorepo managing my network homelab, built with a strong fo
 ---
 
 ## 📖 Learning
-`Containerlab` `Netlink`
+`Netlink`
 `eBPF` `XDP` `DPDK`
 `Rust`
 
