@@ -1,5 +1,5 @@
 # Hi there, I'm Miguel 👋
-I'm a Telematics Engineering student at [UC3M](https://www.uc3m.es) passionate about low-level networking, *NIX systems, and FOSS. 
+I'm a Telematics Engineering student at [UC3M](https://www.uc3m.es), passionate about low-level networking, *NIX systems, and FOSS. 
 
 ---
 
