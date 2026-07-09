@@ -11,6 +11,7 @@ A fully declarative monorepo managing my network homelab, built with a strong fo
 
 > ***Roadmap***: 
 > - Network topology simulations with Containerlab.
+> - Automate non-Nix nodes with Ansible.
 
 
 ---
