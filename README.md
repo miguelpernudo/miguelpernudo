@@ -6,13 +6,8 @@ I'm a Telematics Engineering student at [UC3M](https://www.uc3m.es), passionate 
 ## 🏗️ Repos
 ### [Archipelago](https://github.com/miguelpernudo/archipelago)
 A declarative monorepo managing my network homelab and personal workstation, built with a strong focus on resource efficiency, and reproducibility.
-- Nix flake multi-host for my workstation, and a network server running a K3s cluster hosting a monitoring stack with Grafana.
-- Custom, resource-efficient gateway and wireless access point designed for low-power hardware with QoS (via TC) and nftables, deployed on Alpine Linux.
-
-> ***Roadmap***: 
-> - Network topology simulations with Containerlab.
-> - Automate non-Nix nodes with Ansible.
-
+- Nix flake multi-host for my workstation, and a network node with an observability stack.
+- Wireless access point designed for costrained hardware. Running Alpine Linux, with QoS via tc.
 
 ---
 
