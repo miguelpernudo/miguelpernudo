@@ -25,7 +25,7 @@ A declarative monorepo managing my network homelab and personal workstation, bui
 ---
 
 ## 📫 Contact me
-I'm always open to collaborating. If you need help, reach out to me!
+I'm always open to collaborating. Reach out to me!
 
 * **Email:** [miguelfernandezpernudo@gmail.com](mailto:miguelfernandezpernudo@gmail.com)
 * **LinkedIn:** [Miguel Fernández Pernudo](https://www.linkedin.com/in/miguelpernudo/)
