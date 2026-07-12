@@ -18,7 +18,7 @@ A declarative monorepo managing my network homelab and personal workstation, bui
 
 ## 📖 Learning
 `Netlink`
-`eBPF` `XDP` `DPDK`
+`eBPF` `XDP`
 `Rust`
 
 
