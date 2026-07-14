@@ -3,11 +3,11 @@ I'm a Telematics Engineering student at [UC3M](https://www.uc3m.es), passionate 
 
 ---
 
-## 🏗️ Repos
+## 🏗️ Projects
 ### [Archipelago](https://github.com/miguelpernudo/archipelago)
-A declarative monorepo managing my network homelab and personal workstation, built with a strong focus on resource efficiency, and reproducibility.
-- Nix flake multi-host for my workstation, and a network node with an observability stack.
-- Wireless access point designed for costrained hardware. Running Alpine Linux, with QoS via tc.
+A declarative monorepo managing my workstation and network homelab, built with a strong focus on resource efficiency, and reproducibility.
+- Nix flake multi-host for my workstation, and a network gateway with an observability stack.
+- Wireless access point designed for costrained hardware that runs Alpine Linux, with QoS via tc.
 
 ---
 
