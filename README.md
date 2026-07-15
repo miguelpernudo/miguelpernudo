@@ -6,7 +6,7 @@ I'm a Telecommunications Engineering student at [UC3M](https://www.uc3m.es), pas
 ## 🏗️ Projects
 ### [Archipelago](https://github.com/miguelpernudo/archipelago)
 A declarative monorepo managing my workstation and network homelab, built with a strong focus on resource efficiency, and reproducibility.
-- Nix flake multi-host for my workstation, and a network gateway with an observability stack.
+- Nix flake multi-host for my workstation, and an edge gateway with an observability stack.
 - Wireless access point designed for costrained hardware that runs Alpine Linux, with QoS via tc.
 
 ---
