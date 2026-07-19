@@ -1,5 +1,5 @@
 # Hi there, I'm Miguel 👋
-I'm a Telecommunications Engineering student at [UC3M](https://www.uc3m.es), passionate about FOSS, *NIX systems, low-level networking and network protocols.
+I'm a Telecommunications Engineering student at [UC3M](https://www.uc3m.es), passionate about *NIX systems and low-level networking. I advocate for decentralized and open-source software as ethical tools for a truly libre society.
 
 ---
 
