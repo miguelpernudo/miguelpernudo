@@ -15,7 +15,7 @@ Currently contains:
 ---
 
 ## 📫 Contact me
-I'm always open to collaborating. I'm a quick learner, so if you need a second pair of eyes, or hands, reach out to me!
+I'm always open to collaborating. Reach out to me!
 * **Email:** [miguelfernandezpernudo@gmail.com](mailto:miguelfernandezpernudo@gmail.com)
 
 Or if you just want to add a new contact:
