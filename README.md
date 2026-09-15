@@ -1,5 +1,5 @@
 # Hi there, I'm Miguel 👋
-I'm an Internet Engineering student at [UC3M](https://www.uc3m.es), passionate about *NIX systems and the data plane. Currently diving into the Linux networking stack, specifically working with **Netlink** and **XDP** (**eBPF**) for a project, while exploring **Rust**.
+I'm an Internet Engineering student at [UC3M](https://www.uc3m.es), passionate about *NIX systems and the data plane. Currently diving into the Linux networking stack, specifically working with **Netlink** and **XDP** (**eBPF**), while exploring **Rust**.
 Also, I'm very interested in libre software and tech philosophy.
 
 ---
