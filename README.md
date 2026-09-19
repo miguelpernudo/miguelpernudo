@@ -1,12 +1,12 @@
-# Hi there, I'm Miguel 👋
-I'm an Internet Engineering student at [UC3M](https://www.uc3m.es), passionate about *NIX systems and the data plane. Currently diving into the Linux networking stack, specifically working with **Netlink** and **XDP** (**eBPF**), while exploring **Rust**.
-Also, I'm very interested in libre software and tech philosophy.
+### Hi there, I'm Miguel 👋
+I'm passionate about libre software and tech philosophy.
+Currently diving into the Linux networking stack, specifically working with eBPF, while learnining Rust.
 
 ---
 
-## 🏗️ Repos
+## 🏗️ Working on:
 ### [Archipelago](https://github.com/miguelpernudo/archipelago)
-A reproducible monorepo managing my workstation and network homelab, built with a strong focus on resource efficiency (by obligation).
+A reproducible monorepo managing my workstation and network homelab.
 
 Currently contains:
 - Nix flake multi-host and all of my `.nix` modules for my daily workstation and an edge gateway running core network services (DNS, DHCP, FreeRADIUS) alongside an observability stack.
@@ -14,9 +14,9 @@ Currently contains:
 
 ---
 
-## 📫 Contact me
+## 📫 Contact me:
 I'm always open to collaborating. Reach out to me!
-* **Email:** [miguelfernandezpernudo@gmail.com](mailto:miguelfernandezpernudo@gmail.com)
+* **Gmail:** [miguelfernandezpernudo@gmail.com](mailto:miguelfernandezpernudo@gmail.com)
 
 Or if you just want to add a new contact:
 * **LinkedIn:** [Miguel Fernández Pernudo](https://www.linkedin.com/in/miguelpernudo/)
