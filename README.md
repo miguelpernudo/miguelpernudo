@@ -6,7 +6,7 @@ I'm passionate about *NIX systems, libre software and tech philosophy.
 A reproducible monorepo managing my workstation and network homelab.
 
 Currently contains:
-- Nix flake multi-host and all of my `.nix` modules for my daily workstation and an edge gateway running core network services (DNS, DHCP, FreeRADIUS) alongside an observability stack.
+- Nix flake multi-host and all of my `.nix` modules for my daily workstation and an edge gateway running core network services alongside an observability stack.
 - Wireless access point running Alpine Linux on constrained hardware, with QoS via tc and health check scripts. Deployed using a simple Bash script.
 
 ---
