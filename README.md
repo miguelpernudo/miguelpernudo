@@ -1,6 +1,6 @@
 ### Hi there, I'm Miguel 👋
-I'm passionate about libre software and tech philosophy.
-Currently diving into the Linux networking stack, specifically working with eBPF, while learnining Rust.
+I'm passionate about *NIX systems, libre software and tech philosophy.
+Currently working with eBPF, while learning Rust.
 
 ---
 
