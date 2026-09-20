@@ -1,8 +1,5 @@
 ### Hi there, I'm Miguel 👋
 I'm passionate about *NIX systems, libre software and tech philosophy.
-Currently working with eBPF, while learning Rust.
-
----
 
 ## 🏗️ Working on:
 ### [Archipelago](https://github.com/miguelpernudo/archipelago)
